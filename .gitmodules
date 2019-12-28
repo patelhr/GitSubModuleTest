@@ -1,0 +1,3 @@
+[submodule "RefProjectForGitSubModule"]
+	path = RefProjectForGitSubModule
+	url = https://github.com/patelhr/RefProjectForGitSubModule.git
